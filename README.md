@@ -1,1 +1,6 @@
-This is a simple qr code generator for WIFI passwords inspired by https://wificard.io/
+# Wifi Code
+
+https://zdgeier.github.io/wifi-code/
+
+A wifi QR code generator in a single html file inspired by https://wificard.io/.
+
